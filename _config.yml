@@ -20,7 +20,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "PAPOR"
 description: "Publicly Available Personal Online Reference"
-baseurl: /java
+baseurl: /java-blog
 url: https://pmgolait.github.io
 logo: https://cdn-icons-png.flaticon.com/512/121/121152.png
 date_format: "%B %-d, %Y"
